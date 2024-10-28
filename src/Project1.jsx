@@ -1,14 +1,7 @@
 import ReturnBtn from "./ReturnBtn";
-
-import img1 from "./assets/images/3.png"
-import yoda from "./assets/images/babyyoda.png"
-import myPhoto from "./assets/images/myphoto.jpeg"
 import lshop1 from "./assets/images/l-shop1.png"
 import lshop2 from "./assets/images/l-shop2.png"
 import lshop3 from "./assets/images/l-shop3.png"
-import img2 from "./assets/images/project1.png"
-import img3 from "./assets/images/project2.png"
-import img4 from  "./assets/images/nextacademy.png"
 import lshop4 from "./assets/images/semtitulo.png"
 
 export default function Project1(){
